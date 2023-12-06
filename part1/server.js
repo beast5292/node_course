@@ -5,7 +5,7 @@ const os = require('os');
 const path = require('path');
 const {add,div} = require('./math');
 // or we could use math = require('./math')
-/* and we call is like : 
+/* and we call it like : 
       math.add(2,2);               */
 
 
